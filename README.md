@@ -43,6 +43,11 @@
 
 ### Question 2:
 
+#### Aggregate the data based on months
+#### Use MONTH() function to extract month from Record Date
+#### Create a Pivot Table with Record Date in Rows section, keeping only the Month
+
+
 
 
 
