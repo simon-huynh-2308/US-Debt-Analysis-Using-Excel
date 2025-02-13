@@ -19,12 +19,12 @@
 #### Purpose: The goal of cleaning data is because of the current raw dataset is not ideal for using Pivot Table with more than 7000 columns.
 
 #### Process:
-##### Perform Transpose to flip the rows and columns. The dataset now is adjusted from vertical headings to horizontal headings.
-##### Format the cells to enhance visibility
-##### Apply Filter into the dataset
-##### Delete the blank rows
-##### Perform Ctr+H to replace Null values with Nothing 
-##### Adjust the values from Scientific Notation to Number 
+##### - Perform Transpose to flip the rows and columns. The dataset now is adjusted from vertical headings to horizontal headings.
+##### - Format the cells to enhance visibility
+##### - Apply Filter into the dataset
+##### - Delete the blank rows
+##### - Perform Ctr+H to replace Null values with Nothing 
+##### - Adjust the values from Scientific Notation to Number 
 
 ### Questions 1:
 
@@ -34,11 +34,16 @@
 
 #### The calculation is performed by subtracting the values of the current year from the previous year's values, then dividing the result by the previous year's values to determine the percentage change of Debt Held by the Public, Intragovernmental Holdings and Total Public Debt Outstanding.
 
-#### Insights:
-##### There are 5% increase in 2016
-##### There are approximately 2.5% increase in 2017
-
 #### Visualization: A Line Chart is created for Visualization
+
+#### Insights:
+##### - For the Total Public Debt Outstanding, in 2016 - 2019, the average increase was around 5%
+##### - In 2020, there is a large spike that is most likely caused by the pandemic responses in the US
+
+
+### Question 2:
+
+
 
 
 
