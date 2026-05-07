@@ -1,7 +1,7 @@
 # **US Debt Tracker Project**
 
 ## **Scenario**
-A small debt agency in Washington, D.C. specializing in market debt analysis has been commissioned by the **U.S. Government** to analyze **public and governmental debt** and answer key questions regarding debt trends and projections.
+A small debt agency in Washington, D.C. specializing in market debt analysis has been commissioned by the U.S. Government to analyze public and governmental debt and answer key questions regarding debt trends and projections.
 
 ## **Data Dictionary**
 - **Debt Held by the Public** - US public debt owned by individuals, corporations, foreign government
